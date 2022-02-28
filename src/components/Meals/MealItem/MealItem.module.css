@@ -1,6 +1,9 @@
 .meal {
   border-bottom: 1px solid #ccc;
   padding-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .meal h3 {
