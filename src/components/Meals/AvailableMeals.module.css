@@ -1,0 +1,8 @@
+.meals {
+  margin-left: 10rem;
+}
+.meals ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
