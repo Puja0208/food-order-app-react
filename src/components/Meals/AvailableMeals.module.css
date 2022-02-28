@@ -1,5 +1,12 @@
+/* .meals-card {
+  width: 70%;
+  margin: auto;
+  margin-top: -8rem;
+} */
 .meals {
-  margin-left: 10rem;
+  width: 70%;
+  margin: auto;
+  margin-top: -8rem;
 }
 .meals ul {
   list-style-type: none;
