@@ -8,6 +8,12 @@
   margin: auto;
   margin-top: -6rem;
 }
+
+.MealsLoading {
+  color: white;
+  text-align: center;
+}
+
 .meals ul {
   list-style-type: none;
   margin: 0;
