@@ -9,9 +9,15 @@
   margin-top: -6rem;
 }
 
-.MealsLoading {
+.meals-loading {
   color: white;
   text-align: center;
+  margin-top: -6rem;
+}
+.meals-error {
+  color: red;
+  text-align: center;
+  margin-top: -6rem;
 }
 
 .meals ul {
